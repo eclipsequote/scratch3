@@ -1,1 +1,1 @@
-# Scratch3
+# Scratch3 for Linux
